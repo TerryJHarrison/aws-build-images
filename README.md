@@ -4,5 +4,5 @@ Docker images for CI/CD pipelines focused on AWS services. Each branch features 
 ## Image Contents
 - AWS CLI
 - AWS SAM
-- Python 3.7
+- Python 3.8
 - NodeJS 14
